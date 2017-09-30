@@ -1,0 +1,30 @@
+Patrum Scuta 2.7.1.0B
+
+Official release, updated for 2.7.1.0 BPAH
+
+This is a stripped down version of the original mod. It does not include any of the additionnal graphical and interface modifications made for either "Patrum Scuta" or "The Prince and the Thane".
+There are also none of the corrections made to history files to correct confusions or inaccuracies concerning characters and dynasties (things like the confusion between counts and dauphins of Auvergne to give an example).
+Those corrections possible from within the dynasty file are still there but those are very limited (almost only possible for single character dynasties like popes, bishops or grandmasters when their names/dynasties were wrong).
+This is intentional to keep compatibility at a maximum with other mods (landed titles can be safely sacrificied if need be, there's only a minor modification).
+It is obviously not compatible with anything modifying coat of arms, shield frames or dynasties.
+
+What this includes compared to prior versions or the unofficial 2.5 update :
+- updated dynasty file, which to me, is half the mod and half the work.
+Random dynasties with their historical arms will now correctly pop in your game (well that's for western europe mostly of course).
+The original update was for 2.5, and merely upgraded to 2.7 for compatibility so I haven't checked any of the new dynasties introduced since then (not that many though).
+- new pagans emblems and a matching shield frame for germanic, slavic, finnic and baltic pagans.
+I've tried to make them feel as distinct as possible from each other, while retaining any of the (necessary for consistency) common symbolism.
+This is inspired and adapted from various historical documents and traditionnal designs. There's a lot to work with so this could be expanded in the future, plus the bestiary wasn't finished IIRC.
+- new zoroastrian, west african emblems, both with their unique frame. Also, some additionnal designs for tengri tamgas (I just felt more variety was needed).
+Zoroastrian designs are all based on historical emblems and symbols (from seals, coins and monuments). There's plenty I didn't use here too so I may expand them later.
+African designs are mostly based on traditionnal symbols, and that's the very best we could ever have without any historical testimony.
+
+Solo
+
+
+Credits remain unchanged :
+
+Original idea and concept by Keanon
+Graphics and Implementation by Solo
+Graphics by Birger, from his Wappenwiki website
+http://wappenwiki.org
